@@ -2,8 +2,6 @@
 
 We are your expert partner for secure, scalable, and cost-effective cloud services on AWS, Azure, and GCP. We handle the complexity so you can focus on growth.
 
-[Book a Free Consultation](https://www.librecion.com/contact-us)
-
 | 30%  | 99.99% | 40 Hours  | 100%  |
 | -------- | ------- | ------- | ------- |
 | Average Cloud Cost Reduction | Migration & Uptime Reliability | Operational Efficiency Gains | Client Satisfaction & Retention |
@@ -50,33 +48,11 @@ Hiring a full-time cloud team is costly and often unnecessary. We give you insta
 
 ## Our Case Studies
 
-[See All Case Studies](https://www.librecion.com/case-studies)
+[See how Librecion helped an e-commerce platform migrate to AWS, ensuring zero downtime and seamless scalability to handle a 300% traffic increase during the festive season.](https://www.librecion.com/contact-us)
 
-[![E-commerce Cloud Migration: Scaling for Peak Season](https://www.librecion.com/_assets/img/ecommerce.jpg)\\
-\\
-18/12/2024\\
-\\
-**E-commerce Cloud Migration: Scaling for Peak Season** \\
-\\
-See how Librecion helped an e-commerce platform migrate to AWS, ensuring zero downtime and seamless scalability to handle a 300% traffic increase during the festive season.](https://www.librecion.com/contact-us)
+[Learn how Librecion streamlined a manufacturing company's operations by migrating its legacy systems to Azure, improving efficiency and data accessibility across all plants.](https://www.librecion.com/contact-us)
 
-[![Manufacturing Cloud Transformation on Azure](https://www.librecion.com/_assets/img/manufacturing.jpg)\\
-\\
-04/05/2024\\
-\\
-**Manufacturing Cloud Transformation on Azure** \\
-\\
-Learn how Librecion streamlined a manufacturing company's operations by migrating its legacy systems to Azure, improving efficiency and data accessibility across all plants.](https://www.librecion.com/contact-us)
-
-[![Managed Cloud for SaaS: Ensuring 99.99% Uptime](https://www.librecion.com/_assets/img/saas.jpg)\\
-\\
-05/12/2023\\
-\\
-**Managed Cloud for SaaS: Ensuring 99.99% Uptime** \\
-\\
-Discover how a growing SaaS startup partnered with Librecion for managed cloud services, achieving 99.99% uptime and freeing up its in-house team to focus on product innovation.](https://www.librecion.com/contact-us)
-
-![](https://www.librecion.com/_assets/img/quote-w.svg)
+[Discover how a growing SaaS startup partnered with Librecion for managed cloud services, achieving 99.99% uptime and freeing up its in-house team to focus on product innovation.](https://www.librecion.com/contact-us)
 
 > "Librecion simplified our entire cloud migration. We no longer worry about managing our on-premises infra, and our monthly costs have gone down significantly. They are a true partner."
 Sumit Hatgine
@@ -85,8 +61,6 @@ Sumit Hatgine
 ## Why Choose Us?
 
 We're more than just a service provider; we're a dedicated partner committed to your success. While other firms offer a one-size-fits-all approach, we provide a personalized, managed solution that ensures your business thrives in the cloud.
-
-[About Us →](https://www.librecion.com/about-us)
 
 ### Platform Expertise
 
@@ -112,8 +86,8 @@ Sandesh Kushnaji
 
 Stop letting cloud complexity slow you down. Let Librecion provide the expertise you need to make your cloud environment an engine for growth.
 
-[Book a Free Consultation](https://www.librecion.com/contact-us)
 
 [![](https://www.librecion.com/_assets/img/librecion-logo.svg)](https://www.librecion.com/)
+
 
 © 2025 Librecion Private Limited. All Rights Reserved.
