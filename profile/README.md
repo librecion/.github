@@ -88,6 +88,6 @@ Stop letting cloud complexity slow you down. Let Librecion provide the expertise
 
 ---
 
-[![](https://www.librecion.com/_assets/img/librecion-logo.svg)](https://www.librecion.com/)
+![Librecion Private Limited]}(https://www.librecion.com/_assets/img/librecion-logo.svg)
 
 © 2025 Librecion Private Limited. All Rights Reserved.
